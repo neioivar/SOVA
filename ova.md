@@ -143,3 +143,40 @@ SOVA = 100 - (LMS + SE + SRP) × (1 - VK × OR × TVN × PR × MV × (1 - MTM))
 
 ## Tulemus
 **SOVA = 52.76**
+
+# Sinu otsustusvõime täna – inimlikult lahti seletatuna (SOVA)
+
+Sinu igapäevane otsustusvõime ehk SOVA skoor on praegu **[skoori väärtus, nt 52.76]** sajast võimalikust punktist – see tähendab, et oled umbes poolel teel täiusliku selguse poole. Kujuta ette skaalat, kus 0 on täielik segadus ja 100 kristallselge fookus: sinu number näitab, et oled leidnud tasakaalu oma harjumuste ja tugevuste vahel. See tuli sinu vastustest, mis peegeldavad, kuidas su eluviis, mõtted ja keha praegu koos töötavad. Siin on, kuidas see kokku tuli ja mida see sinu kohta räägib, koos mõtetega, kuidas saad oma päevi järk-järgult paremaks timmida – alates väikestest sammudest kuni suuremate muutusteni, kui tunned selleks valmidust.
+
+## Kuidas see number tuli?
+Valem on lihtne:  
+**SOVA = 100 - (LMS + SE + SRP) × (1 - VK × OR × TVN × PR × MV × (1 - MTM))**  
+Sinu numbritega:  
+**SOVA = 100 - ([LMS väärtus] + [SE väärtus] + [SRP väärtus]) × (1 - [VK väärtus] × [OR väärtus] × [TVN väärtus] × [PR väärtus] × [MV väärtus] × (1 - [MTM väärtus]))**  
+= **[arvutus, nt 100 - 48.04 × 0.97038]**  
+= **[tulemus, nt 52.76]**
+
+## Mida see number sinu kohta ütleb?
+[Siia tuleb põhjalik ja inimlik kirjeldus, mis peegeldab vastaja vastuseid, näiteks:  
+"Sinu skoor 52.76 räägib sellest, kuidas sa 53-aastasena elad tasakaalus, aga märkad keha muutusi – see on loomulik, ja sinu harjumused on jäänud sarnaseks nooremale ajale. Õhtuti õlut nautides rahustab see sind, aga võtab energiat. Söömine on sulle tähtis – kolm korda päevas, vahepalad ja snäkk annavad rütmi, aga toovad väsimust. Sa planeerid toitu hoolikalt ja see suunab su päeva, mis näitab pühendumust, aga võib piirata vabadust. Oled ettevaatlik, tunned end kindlalt, ja hirmud kahanevad – see on tugevus. Mõtted on aktiivsed, aga rahustad neid teadlikult, ja minevik-tulevik sind ei koorma. Uni paraneb, mis toetab su päevi."]
+
+- **LMS – Lõõgastuse mõju selgusele ([väärtus, nt 7.2]/100)**: [Kirjeldus vastustest, nt "Õhtuti õlut nautides rahustab see sind, aga hajutab veidi selgust."]  
+- **SE – Söömise energia ([väärtus, nt 21]/50)**: [Kirjeldus, nt "Toekas toit toob väsimuse ja hommikune uni on poolik – see mõjutab energiat."]  
+- **SRP – Söögi roll plaanides ja valikutes ([väärtus, nt 19.84]/25)**: [Kirjeldus, nt "Söök on su päeva suur osa – planeerid hoolikalt ja naudid seda."]  
+- **VK – Valikute kaalumine ([väärtus, nt 0.7]/1)**: [Kirjeldus, nt "Oled ettevaatlik ja kaalud otsuseid – see annab kindlust."]  
+- **OR – Otsuste rahutus ([väärtus, nt 0.325]/1)**: [Kirjeldus, nt "Hirmud on väikesed ja kahanevad – tunned end kindlalt."]  
+- **TVN – Tuleviku nägemine ([väärtus, nt 0.8]/1)**: [Kirjeldus, nt "Näed hästi, kuhu valikud viivad – väldid probleeme osavalt."]  
+- **PR – Päeva rütm ([väärtus, nt 0.7]/1)**: [Kirjeldus, nt "Päevad on rutiinsed, mis annab stabiilsuse."]  
+- **MV – Mõtete vool ([väärtus, nt 0.3]/1)**: [Kirjeldus, nt "Mõtted on aktiivsed, aga rahustad neid teadlikult."]  
+- **MTM – Mineviku ja tuleviku mõju ([väärtus, nt 0.225]/1)**: [Kirjeldus, nt "Minevik ja tulevik ei koorma – elad praeguses."]  
+- **AM – Aja mõju ([väärtus, nt 53])**: [Kirjeldus, nt "53-aastasena märkad keha muutusi, mis panevad mõtlema."]
+
+## Soovitused – sammud elu paremaks timmimiseks
+[Siia tuleb iga parameetri kohta kolm soovitust: lihtne, keskmine ja suur muutus, näiteks:]  
+- **LMS – Lõõgastuse mõju selgusele**:  
+  - **Lihtne**: [nt "Asenda ühel õhtul nädalas teine õlu veega – kerge samm selguseks."]  
+  - **Keskmine**: [nt "Proovi kahel õhtul nädalas õlle asemel hingamist – see rahustab sama hästi."]  
+  - **Suur**: [nt "Vähenda õlut ühele korrale nädalas, asendades teega – see annab kehale puhkust."]  
+- **[Jätkub kõigi parameetritega sarnaselt]**
+
+[Kui küsid, lisan numbrilise analüüsi detailselt.]
