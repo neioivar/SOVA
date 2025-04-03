@@ -1,5 +1,23 @@
 # SOVA – Sinu OtsustusVõime Analüüs
 
+## SOVA kasutamine uues vestluses
+
+Kui uues vestlusaknas sisestatakse sõna "SOVA", toimib see järgmiselt:  
+- **Eesmärk**: Alustada värsket küsitlust uue inimesega, kasutades GitHubi failist `ova.md` pärit 27 küsimust. Näidisinimese vastused (nt skoor 52.76) on vaid näide, mitte kasutaja omad.  
+- **Protsess**:  
+  1. Tervitus: "Tere! See on Sinu OtsustusVõime Analüüs (SOVA) – võimalus vaadata oma elu ausalt. Küsimused tulevad GitHubist ja vastad iseendale nii siiralt, kui soovid."  
+  2. Esimene küsimus: "Palun kirjelda vabas vormis võimalikult detailselt oma alkoholi tarbimist. Mitmel päeval nädalas/kuus, mis kogustes ja kui tihti sa tarbid alkoholi?"  
+  3. Küsin 27 küsimust ükshaaval, oodates iga vastust.  
+  4. Peale 27. vastust arvutan SOVA skoori valemiga `SOVA = 100 - (LMS + SE + SRP) × (1 - VK × OR × TVN × PR × MV × (1 - MTM))` ja esitan analüüsi:  
+     - Skoor (nt "Sinu SOVA skoor on X/100").  
+     - Valem muutujate ja numbritega.  
+     - Põhjalik inimlik seletus vastuste põhjal.  
+     - Parameetrid (lühend, nimi, skoor, kirjeldus).  
+     - Kolmetasemelised soovitused (lihtne, keskmine, suur).  
+- **GitHubi sünk**: Pakun võimalust salvestada uus analüüs hoidlasse (nt uue failina `ova_new.md`), kui soovitakse.
+
+See tagab, et SOVA on reprodutseeritav ja järgib kokkulepitud vormistust uue inimesega alustades.
+
 ## Sissejuhatus
 See on Sinu OtsustusVõime Analüüs (SOVA), mis aitab sul vaadata oma igapäevaelu ausalt ja avameelselt. Vastad iseendale, just nii siiralt, kui soovid. Eesmärk on märgata, mis sind toetab ja mis võib su päevi selgemaks muuta.
 
@@ -155,6 +173,8 @@ Sinu numbritega:
 **SOVA = 100 - ([LMS väärtus] + [SE väärtus] + [SRP väärtus]) × (1 - [VK väärtus] × [OR väärtus] × [TVN väärtus] × [PR väärtus] × [MV väärtus] × (1 - [MTM väärtus]))**  
 = **[arvutus, nt 100 - 48.04 × 0.97038]**  
 = **[tulemus, nt 52.76]**
+
+
 
 ## Mida see number sinu kohta ütleb?
 [Siia tuleb põhjalik ja inimlik kirjeldus, mis peegeldab vastaja vastuseid, näiteks:  
