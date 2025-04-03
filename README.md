@@ -1,0 +1,2 @@
+# SOVA
+Sinu OtsustusVõime Analüüs
